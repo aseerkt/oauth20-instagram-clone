@@ -1,0 +1,11 @@
+.emoji-picker {
+  position: absolute;
+  right: 1px;
+  bottom: 20px;
+}
+
+@media only screen and (max-width: 350px) {
+  .emoji-picker {
+    width: 90vw;
+  }
+}
